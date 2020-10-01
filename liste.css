@@ -1,0 +1,198 @@
+.A {
+    margin-top:25px;
+    border: 5px solid whitesmoke;
+    height: 160px;
+    width: 500px;
+    border-radius: 30px;
+    justify-content: center;
+    background-image:url(http://thumbs.dreamstime.com/t/baby-girl-banner-header-10633598.jpg);
+    background-repeat: no-repeat;
+    font-family: 'Dancing Script', cursive;
+    }
+
+
+
+.AA{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+body {
+    background-image:url(https://cdn.wallpapersafari.com/71/42/cQpu6N.png)
+    }
+
+.A p {
+     font-size: 40px;
+     text-align: center;
+     margin-top: 10%;
+}
+.B {
+    margin-top: 50px;
+    border: 5px solid whitesmoke;
+    height: 220px;
+    width: 500px;
+    border-radius: 30px;
+    justify-content: center;
+    background-image:url(https://cdn.wallpapersafari.com/38/96/N5IbVR.png);
+    background-repeat: no-repeat;
+    font-family: 'Dancing Script', cursive;
+    text-align:center;
+    font-size: 30px;
+    }
+
+
+
+.BB {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+img {
+    margin-left: 35px;
+    width: 75px;
+    height: auto;
+    }
+
+article {
+    margin-top: 50px;
+    display:flex;
+    border: 5px solid whitesmoke;
+    height: 180px;
+    width: 500px;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+    
+    }
+
+.A2 {
+    font-family: 'Dancing Script', cursive;
+    text-align:center;
+    font-size: 30px;}
+
+
+.A3 {
+    display: flex;
+    justify-content: center;
+}
+
+.A4 {
+    display: flex;
+    justify-content: space-around;
+    }
+
+.A5 {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    }
+
+#article1 {
+    background-image: url(1.png);
+   }
+
+#article2 {
+    background-image: url(4.png);
+    }
+
+#article3 {
+    background-image: url(5.png);
+    }
+
+#article4 {
+    background-image: url(2.png);
+    } 
+
+.c1 {
+    margin-top: 50px;
+    border: 5px solid whitesmoke;
+    height: 220px;
+    width: 500px;
+    border-radius: 30px;
+    background-image:url(https://cdn.wallpapersafari.com/38/96/N5IbVR.png);
+    font-family: 'Dancing Script', cursive;
+    text-align:center;
+    font-size: 30px;
+    }
+
+.c2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    }
+
+.cadre1    {
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    border: 5px solid whitesmoke;
+    height: 150px;
+    width: 300px;
+    border-radius: 30px;
+    background-image: url(1.png);;
+    background-repeat: no-repeat;
+    font-family: 'Dancing Script', cursive;
+    text-align:center;
+    font-size: 30px;
+    }
+
+.cadre2 {
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    border: 5px solid whitesmoke;
+    height: 150px;
+    width: 300px;
+    border-radius: 30px;
+    background-image: url(4.png);
+    background-repeat: no-repeat;
+    font-family: 'Dancing Script', cursive;
+    text-align:center;
+    font-size: 30px;
+}
+
+.cadre3 {
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    border: 5px solid whitesmoke;
+    height: 150px;
+    width: 300px;
+    border-radius: 30px;
+    background-image: url(5.png);
+    background-repeat: no-repeat;
+    font-family: 'Dancing Script', cursive;
+    text-align:center;
+    font-size: 30px;
+}
+
+.cadre4 {
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    border: 5px solid whitesmoke;
+    height: 150px;
+    width: 300px;
+    border-radius: 30px;
+    background-image: url(2.png);
+    background-repeat: no-repeat;
+    font-family: 'Dancing Script', cursive;
+    text-align:center;
+    font-size: 30px;
+    }
+
+.gros-cadre1 {
+    justify-content: space-around;
+    display: flex;
+    }
+
+.gros-cadre2 {
+    justify-content: space-around;
+    display: flex;
+    margin-bottom: 50px;
+    }
